@@ -13,6 +13,5 @@ C:\Users\P7967\Documents\Personal\Tutorials\ASP.net Core 2.2 REST Api Tutorial\T
 C:\Users\P7967\Documents\Personal\Tutorials\ASP.net Core 2.2 REST Api Tutorial\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.RazorTargetAssemblyInfo.cache
 C:\Users\P7967\Documents\Personal\Tutorials\ASP.net Core 2.2 REST Api Tutorial\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.genruntimeconfig.cache
 C:\Users\P7967\Documents\Personal\Tutorials\ASP.net Core 2.2 REST Api Tutorial\Tweetbook\Tweetbook\bin\Debug\netcoreapp2.2\Tweetbook.pdb
-C:\Users\P7967\Documents\Personal\Tutorials\ASP.net Core 2.2 REST Api Tutorial\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.csproj.CoreCompileInputs.cache
 C:\Users\P7967\Documents\Personal\Tutorials\ASP.net Core 2.2 REST Api Tutorial\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.dll
 C:\Users\P7967\Documents\Personal\Tutorials\ASP.net Core 2.2 REST Api Tutorial\Tweetbook\Tweetbook\obj\Debug\netcoreapp2.2\Tweetbook.pdb
